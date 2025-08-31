@@ -19,7 +19,7 @@ Email Service: Nodemailer (Gmail SMTP)
 ⚙️ Installation & Setup
 
 1. Clone the Repository
-   git clone https://github.com/yourusername/gossipgram.git
+   git clone https://github.com/SHASHANK2405/social_media.git
    cd gossipgram
 
 2. Install Dependencies
